@@ -3,7 +3,7 @@ Projekt strony do przeglądania ofert pracy i składania aplikacji
 
 Strona została stworzona z wykorzystaniem technologii PHP, HTML, CSS
 Do działania wymaga serwera PHP i MySQL.
-Dane dostępowe do bazy można zmienić w pliku `datapase.php` w katalogu `config`.
+Dane dostępowe do bazy można zmienić w pliku `database.php` w katalogu `config`.
 Skrypt tworzący bazę jest w pliku `kadry.sql`.
 Plik `kadry2.sql` zawiera również przykładowe dane użytkowników i ogłoszeń.
 
